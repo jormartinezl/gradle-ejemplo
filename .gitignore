@@ -1,0 +1,43 @@
+# Archivos y directorios generados por Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+
+# Archivos de caché del IDE (Eclipse, IntelliJ, STS)
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y reportes
+*.log
+*.tmp
+*.pid
+*.gz
+*.hprof
+hs_err_pid*
+
+# Archivos de configuración local
+*.properties
+*.local
+
+# Archivos generados por pruebas
+test-results/
+coverage/
+jacoco/
+
+# Archivos de empaquetado
+*.jar
+*.war
+*.ear
+
